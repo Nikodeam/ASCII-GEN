@@ -1,0 +1,1 @@
+usage: Image to ASCII [-h] [--input INPUT] [--output OUTPUT] [--language LANGUAGE] [--mode MODE] [--background {black,white}] [--num_cols NUM_COLS]
